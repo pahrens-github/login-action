@@ -1,4 +1,5 @@
 # https://help.github.com/en/articles/metadata-syntax-for-github-actions
+# hacked
 name: 'Docker Login'
 description: 'GitHub Action to login against a Docker registry'
 author: 'docker'
